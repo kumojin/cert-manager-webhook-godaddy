@@ -6,10 +6,10 @@ replicaCount: 1
 
 image:
   repository: inspectorio/cert-manager-webhook-godaddy
-  tag: v0.1.1
+  tag: 1.0.1
   pullPolicy: IfNotPresent
 
-groupName: acme.mycompany.com
+groupName: acme.flowhub.co
 
 certManager:
   namespace: cert-manager
