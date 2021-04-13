@@ -6,7 +6,7 @@ replicaCount: 1
 
 image:
   repository: crimv42/cert-manager-webhook-godaddy
-  tag: 1.3.0
+  tag: v1.0.1
   pullPolicy: IfNotPresent
 
 groupName: acme.copmany.com
