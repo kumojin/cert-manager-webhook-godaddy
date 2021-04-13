@@ -5,11 +5,11 @@
 replicaCount: 1
 
 image:
-  repository: inspectorio/cert-manager-webhook-godaddy
+  repository: crimv42/cert-manager-webhook-godaddy
   tag: 1.0.1
   pullPolicy: IfNotPresent
 
-groupName: acme.flowhub.co
+groupName: acme.copmany.com
 
 certManager:
   namespace: cert-manager
