@@ -14,5 +14,3 @@
 # Ignore the built binary
 cert-manager-webhook-example
 
-# Ignore Values.yaml changes
-deploy/godaddy-webhook/values.yaml
